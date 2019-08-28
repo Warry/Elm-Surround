@@ -1,4 +1,4 @@
-# Elm Surround
+# Elm Surround [WIP]
 
 Opinionated `([{` surrounded new lines indentation for Elm in Sublime Text.
 
@@ -6,7 +6,7 @@ Opinionated `([{` surrounded new lines indentation for Elm in Sublime Text.
 
 ## Install
 
-At the moment, download those files into you Package/User directory:
+At the moment, download those files into your Package/User directory:
 
 - Add surrounded line.sublime-macro
 - Default.sublime-keymap
